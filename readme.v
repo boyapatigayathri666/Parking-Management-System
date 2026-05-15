@@ -15,7 +15,7 @@ This project implements a simple Parking Management System using Verilog HDL.
 
 ## Tools Used
 - Verilog HDL
-- EDA Playground / ModelSim / Vivado
+- EDA Playground
 
 ## Working
 - Car entry decreases available slots
